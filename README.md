@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/6a003451-3c35-496d-ba1a-fcc40f6783e7.png" alt="Hossein Rafiei - Front-End Developer" width="100%" />
+</p>
 <h1 align="center">Hi, I'm Hossein Rafiei 👋</h1>
 
 <h3 align="center">Front-End Developer | React & Next.js</h3>
